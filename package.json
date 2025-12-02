@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/solorzanos213/taller-git-ci-3223475-sofia/issues"
   },
-  "homepage": "https://github.com/solorzanos213/taller-git-ci-3223475-sofia#readme"
+  "homepage": "https://github.com/solorzanos213/taller-git-ci-3223475-sofia#readme",
+  "devDependencies": {
+    "prettier": "^3.7.3"
+  }
 }
