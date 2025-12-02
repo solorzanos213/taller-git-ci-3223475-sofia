@@ -1,0 +1,26 @@
+{
+  "name": "taller-git-ci-3223475-sofia",
+  "version": "1.0.0",
+  "description": "// trigger CI",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solorzanos213/taller-git-ci-3223475-sofia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solorzanos213/taller-git-ci-3223475-sofia/issues"
+  },
+  "homepage": "https://github.com/solorzanos213/taller-git-ci-3223475-sofia#readme",
+  "devDependencies": {
+    "prettier": "^3.7.3"
+  }
+}
